@@ -5,10 +5,10 @@ Fonts are separated by a | */
 
 :root {
   /* change the values below to your colors from your palette */
-  --primary-color: #396E94   ;
-  --secondary-color: #E7C24F ;
-  --accent1-color: #A42212;
-  --accent2-color: white;
+  --primary-color: #59ab6e  ;
+  --secondary-color: #ede861 ;
+  --accent1-color: #59ab6e;
+  --accent2-color: #bcbcbc 
 
   /* change the values below to your chosen font(s) */
   --heading-font: "Roboto";
